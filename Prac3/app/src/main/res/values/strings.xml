@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prac2</string>
+    <string name="this_is_a_bomb_which_can_explode_any_time">This is a bomb which can explode any time!!!</string>
+    <string name="todo">TODO</string>
+</resources>

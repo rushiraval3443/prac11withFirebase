@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">prac11</string>
+    <string name="already_have_an_account"><u> Already Have an Account? </u></string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an_one_time_password_on_this_mobile_number">We will send you an one time password on this mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_91">+91-</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_the_otp_sent_to_you">Enter the OTP sent to you</string>
+    <string name="resend_otp">RESEND OTP</string>
+    <string name="verify">Verify</string>
+    <string name="didn_t_ricieve_the_otp">Didn\'t Ricieve the OTP</string>
+    <string name="login_using_otp"><u>LOGIN Using OTP</u></string>
+    <string name="go_back">Go back</string>
+    <string name="welcome">Welcome</string>
+    <string name="textview">TextView</string>
+    <string name="log_out">Log Out</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="username">Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="clear">Clear</string>
+    <string name="log_in">Log IN</string>
+    <string name="password">PassWord</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="password_register">Password</string>
+    <string name="registration">Registration</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    
+</resources>

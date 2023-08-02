@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Prac10</string>
+    <string name="enter_username">Enter UserName</string>
+    <string name="submit">Submit</string>
+    <string name="enter_number">Enter number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="username">UserName</string>
+    <string name="country">Country</string>
+    <string name="email">Email</string>
+    <string name="number">Number</string>
+    <string name="state">State</string>
+    <string-array name="country_arrays">
+        <item>India</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>Malaysia</item>
+    </string-array>
+    <string-array name="state_arrays">
+        <item>Andhra Pradesh</item>
+        <item>Madhya Pradesh</item>
+        <item>Gujarat</item>
+        <item>arunachal pradesh</item>
+        <item>Assam</item>
+        <item>mizoram</item>
+        <item>kerala</item>
+        <item>Karnataka</item>
+    </string-array>
+</resources>

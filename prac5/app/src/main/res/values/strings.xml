@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">prac5</string>
+    <string name="click">Click</string>
+    <string name="layout">Layout</string>
+    <string name="constarint">Constarint</string>
+    <string name="linear">Linear</string>
+    <string name="table">Table</string>
+</resources>

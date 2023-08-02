@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prac4</string>
+    <string name="click_me">Click Me</string>
+    <string name="tv_buttone_click_text">Click on the below button for next activity.</string>
+</resources>
