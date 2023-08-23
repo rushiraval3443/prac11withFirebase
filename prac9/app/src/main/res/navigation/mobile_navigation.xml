@@ -27,4 +27,14 @@
         android:name="com.example.prac9.RdrFragment"
         android:label="@string/rushi_raval"
         tools:layout="@layout/fragment_rdr" />
+    <fragment
+        android:id="@+id/nav_rdr"
+        android:name="com.example.prac9.RushiFragment"
+        android:label="@string/rushi_raval"
+        tools:layout="@layout/fragment_rushi" />
+    <fragment
+        android:id="@+id/nav_abc"
+        android:name="com.example.prac9.AbcFragment"
+        android:label="@string/rushi_raval"
+        tools:layout="@layout/fragment_abc" />
 </navigation>

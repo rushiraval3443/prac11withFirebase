@@ -20,5 +20,13 @@
             android:id="@+id/nav_rushi"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/rushi_raval" />
+        <item
+            android:id="@+id/nav_rdr"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="RDR" />
+        <item
+            android:id="@+id/nav_abc"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="ABC" />
     </group>
 </menu>
