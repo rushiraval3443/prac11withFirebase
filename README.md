@@ -1,2 +1,2 @@
 # Android-Projects
- all android projects
+ all android projects of Marwadi university Diploma Mobile computing subjects
