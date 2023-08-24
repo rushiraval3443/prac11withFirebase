@@ -104,16 +104,16 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.171" />
 
-    <!--<ImageButton
+    <ImageButton
         android:id="@+id/btn_google"
-        android:layout_width="70dp"
-        android:layout_height="69dp"
-        android:src="@mipmap/ic_google"
+        android:layout_width="86dp"
+        android:layout_height="75dp"
+        android:src="@mipmap/ic_google_foreground"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.815" />-->
+        app:layout_constraintVertical_bias="0.912" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
