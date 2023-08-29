@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    tools:context=".fragments.Chats">
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:text="TechVidvan Chat"
+        android:textColor="@color/white"
+        android:textSize="24sp" />
+
+    <!--    <RelativeLayout-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:background="@color/background">-->
+
+    <!--        <LinearLayout-->
+    <!--            android:id="@+id/ll_groupCSE"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:gravity="center"-->
+    <!--            android:orientation="horizontal"-->
+    <!--            android:padding="16dp">-->
+
+    <!--            <RelativeLayout-->
+    <!--                android:layout_width="match_parent"-->
+    <!--                android:layout_height="wrap_content">-->
+
+    <!--                <de.hdodenhof.circleimageview.CircleImageView-->
+    <!--                    android:id="@+id/cv_profileImageCSE"-->
+    <!--                    android:layout_width="50dp"-->
+    <!--                    android:layout_height="50dp"-->
+    <!--                    android:layout_centerVertical="true"-->
+    <!--                    android:src="@drawable/user" />-->
+
+    <!--                <LinearLayout-->
+    <!--                    android:id="@+id/ll_usernameCSE"-->
+    <!--                    android:layout_width="wrap_content"-->
+    <!--                    android:layout_height="wrap_content"-->
+    <!--                    android:layout_centerVertical="true"-->
+    <!--                    android:layout_marginLeft="16dp"-->
+    <!--                    android:layout_toRightOf="@id/cv_profileImageCSE"-->
+    <!--                    android:orientation="vertical">-->
+
+    <!--                    <TextView-->
+    <!--                        android:id="@+id/tv_usernameCSE"-->
+    <!--                        android:layout_width="wrap_content"-->
+    <!--                        android:layout_height="wrap_content"-->
+    <!--                        android:layout_marginLeft="8dp"-->
+    <!--                        android:layout_toRightOf="@id/cv_profileImageCSE"-->
+    <!--                        android:text="Nitika"-->
+    <!--                        android:textColor="@color/textColor"-->
+    <!--                        android:textSize="20sp" />-->
+
+    <!--                </LinearLayout>-->
+
+    <!--                <Button-->
+    <!--                    android:id="@+id/btn_joinGroup"-->
+    <!--                    android:layout_width="wrap_content"-->
+    <!--                    android:layout_height="40dp"-->
+    <!--                    android:layout_alignParentEnd="true"-->
+    <!--                    android:layout_centerVertical="true"-->
+    <!--                    android:layout_marginRight="8dp"-->
+    <!--                    android:background="@drawable/background_right"-->
+    <!--                    android:text="Chat"-->
+    <!--                    android:textAlignment="center"-->
+    <!--                    android:textAllCaps="false"-->
+    <!--                    android:textColor="@color/white"-->
+    <!--                    android:textSize="16sp" />-->
+
+    <!--            </RelativeLayout>-->
+
+    <!--        </LinearLayout>-->
+
+    <!--    </RelativeLayout>-->
+
+    <!--    <RelativeLayout-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:background="@color/background">-->
+
+    <!--        <LinearLayout-->
+    <!--            android:id="@+id/ll_groupCSE2"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:gravity="center"-->
+    <!--            android:orientation="horizontal"-->
+    <!--            android:padding="16dp">-->
+
+    <!--            <RelativeLayout-->
+    <!--                android:layout_width="match_parent"-->
+    <!--                android:layout_height="wrap_content">-->
+
+    <!--                <de.hdodenhof.circleimageview.CircleImageView-->
+    <!--                    android:id="@+id/cv_profileImageCSE2"-->
+    <!--                    android:layout_width="50dp"-->
+    <!--                    android:layout_height="50dp"-->
+    <!--                    android:layout_centerVertical="true"-->
+    <!--                    android:src="@drawable/user" />-->
+
+    <!--                <LinearLayout-->
+    <!--                    android:id="@+id/ll_usernameCSE2"-->
+    <!--                    android:layout_width="wrap_content"-->
+    <!--                    android:layout_height="wrap_content"-->
+    <!--                    android:layout_centerVertical="true"-->
+    <!--                    android:layout_marginLeft="16dp"-->
+    <!--                    android:layout_toRightOf="@id/cv_profileImageCSE2"-->
+    <!--                    android:orientation="vertical">-->
+
+    <!--                    <TextView-->
+    <!--                        android:id="@+id/tv_usernameCSE2"-->
+    <!--                        android:layout_width="wrap_content"-->
+    <!--                        android:layout_height="wrap_content"-->
+    <!--                        android:layout_marginLeft="8dp"-->
+    <!--                        android:layout_toRightOf="@id/cv_profileImageCSE"-->
+    <!--                        android:text="Priyanka"-->
+    <!--                        android:textColor="@color/textColor"-->
+    <!--                        android:textSize="20sp" />-->
+
+    <!--                </LinearLayout>-->
+
+    <!--                <Button-->
+    <!--                    android:id="@+id/btn_joinGroup2"-->
+    <!--                    android:layout_width="wrap_content"-->
+    <!--                    android:layout_height="40dp"-->
+    <!--                    android:layout_alignParentEnd="true"-->
+    <!--                    android:layout_centerVertical="true"-->
+    <!--                    android:layout_marginRight="8dp"-->
+    <!--                    android:background="@drawable/background_right"-->
+    <!--                    android:text="Chat"-->
+    <!--                    android:textAlignment="center"-->
+    <!--                    android:textAllCaps="false"-->
+    <!--                    android:textColor="@color/white"-->
+    <!--                    android:textSize="16sp" />-->
+
+    <!--            </RelativeLayout>-->
+
+    <!--        </LinearLayout>-->
+
+    <!--    </RelativeLayout>-->
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_showChats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_text" />
+
+</LinearLayout>
