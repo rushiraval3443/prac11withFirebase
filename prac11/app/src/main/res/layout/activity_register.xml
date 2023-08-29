@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".RegisterActivity"
-    android:background="@drawable/back_app">
+    tools:context=".RegisterActivity">
+    <!--android:background="@drawable/back_app">-->
 
     <EditText
         android:id="@+id/et_email_reg"
@@ -104,7 +104,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.171" />
 
-    <ImageButton
+    <!--<ImageButton
         android:id="@+id/btn_google"
         android:layout_width="86dp"
         android:layout_height="75dp"
@@ -114,6 +114,6 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.912" />
+        app:layout_constraintVertical_bias="0.912" />-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>
