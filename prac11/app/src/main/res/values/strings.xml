@@ -16,7 +16,7 @@
     <string name="welcome">Welcome</string>
     <string name="textview">TextView</string>
     <string name="log_out">Log Out</string>
-    <string name="enter_username">Enter Username</string>
+    <string name="enter_username">Enter Email</string>
     <string name="username">Username</string>
     <string name="enter_password">Enter Password</string>
     <string name="clear">Clear</string>

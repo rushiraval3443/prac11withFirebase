@@ -19,8 +19,8 @@
         tools:targetApi="31">
 
         <meta-data
-            android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyDKymeBXNeiFWY5jRUejv6zItpmr2MVyQ0" />
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6308440211917122~8515562149" />
         <!--
              TODO: Before you run your application, you need a Google Maps API key.
 
@@ -47,7 +47,8 @@
             android:exported="false" />
         <activity
             android:name=".RegisterActivity"
-            android:exported="true">
+            android:exported="true"
+            android:hardwareAccelerated="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

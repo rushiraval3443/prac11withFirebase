@@ -112,8 +112,8 @@
 
     <TextView
         android:id="@+id/textView4"
-        android:layout_width="77dp"
-        android:layout_height="62dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="@string/login"
         android:textColor="@color/black"
         android:textSize="28sp"
